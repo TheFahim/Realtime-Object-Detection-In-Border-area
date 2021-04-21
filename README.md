@@ -4,7 +4,18 @@ There are two different algorithms where we trained tested the raw dataset. for 
 
 there are Two algorithm here to run 
 
-**Single Shot Multibox detector** 
+# Single Shot Multibox detector
 
 run the demo
-> python image.py  
+for image file
+> python image.py 
+
+and for video file
+> python video.py
+
+
+# You only look once
+
+run the demo video
+
+>python detect_video.py --weights ./checkpoints/yolov4-416 --size 416 --model yolov4 --video ./data/video/videobsf.mp4 --output ./detections/results.avi
