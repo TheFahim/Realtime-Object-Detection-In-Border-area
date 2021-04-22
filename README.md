@@ -6,7 +6,7 @@ there are Two algorithm here to run
 
 # Single Shot Multibox detector (SSD)
 
-run the demo
+Run the demo
 for image file
 ```
 python image.py 
@@ -18,12 +18,12 @@ python video.py
 
 # You only look once (YOLO)
 
-run the demo video
+Run the demo video
 ```
 python detect_video.py --weights ./checkpoints/yolov4-416 --size 416 --model yolov4 --video ./data/video/videobsf.mp4 --output ./detections/results.avi
 ```
 
-run image
+Run image
 ```
 python detect.py --weights ./checkpoints/custom-416 --size 416 --model yolov4 --images ./data/images/car.jpg
 ```
