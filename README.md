@@ -1,4 +1,4 @@
-# borderdefense
+# Real Time Object Detection In Border Area
 
 There are two different algorithms where we trained tested the raw dataset. for limited amount of hardware resourses transfer based learning used where I downloaded pre-trained network layers tranied the raw datasets according to them and finally found discision layer. My project was to find out which algorithm works better in a real-time situation. 
 
