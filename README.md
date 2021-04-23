@@ -53,3 +53,9 @@ You must have a decent gpu to have fair amout of real-time output in these syste
 - pillow
 
 to install tensorflow object-detection API please fllow the link [here](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html)
+
+# Source files
+1. Get YOLOv4 source files from [here](https://github.com/theAIGuysCode/tensorflow-yolov4-tflite)
+ - download my trained YOLOv4 weights from [here](https://drive.google.com/file/d/1tBIubn-4dNZCVqgnBrx_zz5EMXYAiLIH/view?usp=sharing)
+2. Get SSD tensorflow API source files from [here](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/) and [here](https://github.com/sglvladi/TensorFlowObjectDetectionTutorial/tree/master/docs/source)
+
